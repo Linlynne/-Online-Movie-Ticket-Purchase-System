@@ -1,0 +1,58 @@
+h2{
+   margin: 30px auto 30px auto;
+    text-align: center;
+  
+  }
+  .continer2{
+      width: 600px;
+      margin:30px auto 20px auto;
+      background-color: rgb(245, 243, 243);
+      padding: 0 50px 0 50px;
+      border-radius: 10px;
+      
+  }
+  
+.profile{
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+
+.erro{
+    padding: 20px;
+    
+    color:red;}
+
+    #button1{
+        margin-left: 200px;
+       
+        margin-bottom: 30px;
+    }
+
+h2{
+    padding-top: 20px;
+}
+label{
+    padding: 10px;
+    font-weight: 700;
+}
+
+  
+  .card1{
+    width: 600px;
+    margin: 50px auto;
+    background-color: rgb(241, 239, 239);
+  }
+  
+  .continer4{
+    width: 600px;
+    margin:30px auto 50px auto;
+    background-color: rgb(245, 243, 243);
+    padding: 0 50px 30px 50px;
+    border-radius: 10px;
+}
+.history{
+    text-align: center;
+    padding-top: 30px;
+    
+}

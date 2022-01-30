@@ -1,0 +1,84 @@
+.seat:hover {
+  cursor: pointer;
+  cursor: hand;
+}
+.continer2{
+  width: 580px;
+  margin:30px auto 20px auto;
+  background-color: rgb(245, 243, 243);
+  padding: 0 50px 0 50px;
+  border-radius: 10px;
+}
+
+.card1{
+  width: 580px;
+  margin: 50px auto;
+  background-color: rgb(241, 239, 239);
+  border-radius: 10px;
+}
+
+.card3{
+  width: 580px;
+  border: none;
+  background-color: rgb(241, 239, 239);
+  margin: 30px auto 30px auto;
+  border-radius: 10px;
+
+}
+
+.card2{
+  width: 580px;
+  background-color: rgb(241, 239, 239);
+  margin: 30px auto 30px auto;
+ padding: 10px;
+ border-radius: 10px;
+}
+.card4{
+  width: 580px;
+  margin: 50px auto;
+  background-color: rgb(241, 239, 239);
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+.card5{
+  width: 580px;
+  margin: 50px auto;
+  background-color: rgb(241, 239, 239);
+  border-radius: 10px;
+ 
+}
+.card6{
+  width: 580px;
+  margin: 50px auto;
+  background-color: rgb(241, 239, 239);
+  border-radius: 10px;
+  margin-bottom: 50px;
+ 
+}
+.btn1{
+  color: red;
+  border-radius: 6px;
+  
+}
+
+.order{
+margin: 3px auto 3px 3px;
+padding-bottom: 3px;
+}
+
+#btn2{
+ margin-left: 230px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+
+.img{
+  margin: 20px auto 20px 90px;
+}
+
+.round{
+  margin-right: 10px;
+ 
+}
+
